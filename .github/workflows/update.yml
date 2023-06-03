@@ -19,5 +19,5 @@ jobs:
         uses: devops-infra/action-commit-push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_prefix: "[CI/CD]"
+          commit_prefix: "[CI/CD] "
           commit_message: "Update Files"
