@@ -1,7 +1,7 @@
 import requests, json, time, re, queue, threading
 from collections import OrderedDict
 
-thread_count = 20
+thread_count = 10
 
 headers = {
     "Host": "www.spamhaus.org",
