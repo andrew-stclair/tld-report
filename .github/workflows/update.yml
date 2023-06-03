@@ -1,0 +1,22 @@
+name: Update
+on:
+  push:
+  schedule:
+    - cron: "0 0-11,23 * * *"
+  workflow_dispatch:
+
+jobs:
+  change-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Run Query
+        run: |
+          python3 main.py
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_prefix: "[CI/CD]"
+          commit_message: "Update Files"
