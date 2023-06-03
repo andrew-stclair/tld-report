@@ -1,4 +1,5 @@
 import requests, json, time, re, queue, threading
+from collections import OrderedDict
 
 thread_count = 20
 
@@ -65,5 +66,5 @@ q.join()
 time.sleep(10)
 
 f = open("results.json", 'w')
-f.write(json.dumps(list, indent=2))
+f.write(json.dumps(OrderedDict(sorted(list.items())), indent=2))
 f.close()
