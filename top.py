@@ -20,7 +20,7 @@ for tld in reversed(sorted(items_dict, key=select_badness)):
     badness_count += 1
 print(badness_output)
 
-with open("top_badness.csv", "w", encoding='utf-8') as badness_file:
+with open("reports/top_badness.csv", "w", encoding='utf-8') as badness_file:
     badness_file.write(badness_output)
 
 percent_count = 0
@@ -31,5 +31,5 @@ for tld in reversed(sorted(items_dict, key=select_percent)):
     percent_count += 1
 print(percent_output)
 
-with open("top_percent.csv", "w", encoding='utf-8') as percent_file:
+with open("reports/top_percent.csv", "w", encoding='utf-8') as percent_file:
     percent_file.write(percent_output)
