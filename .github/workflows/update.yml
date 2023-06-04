@@ -11,9 +11,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Run Query
+      - name: Retrieve Data
         run: |
           python3 main.py
+      - name: Compile Top List
+        run: |
+          python3 top.py
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
         with:
