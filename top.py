@@ -12,24 +12,24 @@ def select_badness(tld_object):
     """Returns the percent for a tld"""
     return items_dict[tld_object]['badness']
 
-badness_count = 0
-badness_output = 'tld,badness\n'
+BADNESS_COUNT = 0
+BADNESS_OUTPUT = 'tld,badness\n'
 for tld in reversed(sorted(items_dict, key=select_badness)):
-    if badness_count < 10:
-        badness_output += f"{tld},{items_dict[tld]['badness']}\n"
-    badness_count += 1
-print(badness_output)
+    if BADNESS_COUNT < 10:
+        BADNESS_OUTPUT += f"{tld},{items_dict[tld]['badness']}\n"
+    BADNESS_COUNT += 1
+print(BADNESS_OUTPUT)
 
 with open("reports/top_badness.csv", "w", encoding='utf-8') as badness_file:
-    badness_file.write(badness_output)
+    badness_file.write(BADNESS_OUTPUT)
 
-percent_count = 0
-percent_output = 'tld,percent\n'
+PERCENT_COUNT = 0
+PERCENT_OUTPUT = 'tld,percent\n'
 for tld in reversed(sorted(items_dict, key=select_percent)):
-    if percent_count < 10:
-        percent_output += f"{tld},{items_dict[tld]['percent']}\n"
-    percent_count += 1
-print(percent_output)
+    if PERCENT_COUNT < 10:
+        PERCENT_OUTPUT += f"{tld},{items_dict[tld]['percent']}\n"
+    PERCENT_COUNT += 1
+print(PERCENT_OUTPUT)
 
 with open("reports/top_percent.csv", "w", encoding='utf-8') as percent_file:
-    percent_file.write(percent_output)
+    percent_file.write(PERCENT_OUTPUT)
