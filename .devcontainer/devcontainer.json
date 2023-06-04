@@ -1,0 +1,22 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/pylint:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"github.vscode-github-actions",
+				"ms-vscode.vscode-github-issue-notebooks",
+				"ms-toolsai.jupyter",
+				"ms-toolsai.vscode-jupyter-cell-tags",
+				"ms-toolsai.jupyter-renderers",
+				"ms-toolsai.vscode-jupyter-slideshow",
+				"ms-python.vscode-pylance",
+				"ms-python.pylint",
+				"ms-python.python",
+				"ms-toolsai.jupyter-keymap"
+			]
+		}
+	}
+}
