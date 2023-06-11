@@ -7,6 +7,7 @@ on:
 jobs:
   change-and-push:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions: write-all
     steps:
       - name: Checkout repository
