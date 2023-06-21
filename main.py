@@ -7,7 +7,7 @@ import queue
 import threading
 import requests
 
-THREAD_COUNT = 10
+THREAD_COUNT = 30
 
 headers = {
     "Host": "www.spamhaus.org",
@@ -63,7 +63,7 @@ class Worker(threading.Thread):
                 badness = request.text.split(" ")[-1].replace(")", "")
                 percent = request.text.split(" ")[2].replace("%", "")
                 item_dict[tld] = {"badness": badness, "percent": percent}
-            time.sleep(1)
+            time.sleep(THREAD_COUNT/10)
             self.tld_queue.task_done()
 
 
