@@ -8,6 +8,7 @@ import threading
 import requests
 
 THREAD_COUNT = 30
+REQUESTS_PER_SEC = 5 # This is not a limit, this is just an average, initially you will send a number of requests equivelent to the THREAD_COUNT +1
 
 headers = {
     "Host": "www.spamhaus.org",
@@ -63,7 +64,7 @@ class Worker(threading.Thread):
                 badness = request.text.split(" ")[-1].replace(")", "")
                 percent = request.text.split(" ")[2].replace("%", "")
                 item_dict[tld] = {"badness": badness, "percent": percent}
-            time.sleep(THREAD_COUNT/10)
+            time.sleep(THREAD_COUNT/REQUESTS_PER_SEC)
             self.tld_queue.task_done()
 
 
