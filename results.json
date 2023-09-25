@@ -855,6 +855,10 @@
     "badness": "0.01",
     "percent": "2.2"
   },
+  "dance": {
+    "badness": "0.00",
+    "percent": "0.0"
+  },
   "date": {
     "badness": "0.33",
     "percent": "11.0"
@@ -911,6 +915,10 @@
     "badness": "0.02",
     "percent": "0.6"
   },
+  "dev": {
+    "badness": "0.01",
+    "percent": "0.2"
+  },
   "dhl": {
     "badness": "0.00",
     "percent": "0.0"
@@ -927,9 +935,17 @@
     "badness": "0.23",
     "percent": "4.1"
   },
+  "direct": {
+    "badness": "0.00",
+    "percent": "0.6"
+  },
   "directory": {
     "badness": "0.15",
     "percent": "5.3"
+  },
+  "discount": {
+    "badness": "0.00",
+    "percent": "2.2"
   },
   "dj": {
     "badness": "0.00",
@@ -963,6 +979,10 @@
     "badness": "0.05",
     "percent": "2.3"
   },
+  "durban": {
+    "badness": "0.00",
+    "percent": "0.0"
+  },
   "dvag": {
     "badness": "0.00",
     "percent": "0.0"
@@ -991,6 +1011,10 @@
     "badness": "0.00",
     "percent": "0.0"
   },
+  "education": {
+    "badness": "0.00",
+    "percent": "0.1"
+  },
   "ee": {
     "badness": "0.00",
     "percent": "0.2"
@@ -1002,6 +1026,10 @@
   "email": {
     "badness": "0.17",
     "percent": "3.7"
+  },
+  "energy": {
+    "badness": "0.00",
+    "percent": "0.5"
   },
   "engineer": {
     "badness": "0.00",
@@ -1054,6 +1082,10 @@
   "exchange": {
     "badness": "0.05",
     "percent": "2.3"
+  },
+  "expert": {
+    "badness": "0.02",
+    "percent": "1.1"
   },
   "exposed": {
     "badness": "0.00",
