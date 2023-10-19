@@ -21,7 +21,7 @@
   },
   "ac": {
     "badness": "0.04",
-    "percent": "2.5"
+    "percent": "2.6"
   },
   "academy": {
     "badness": "0.01",
@@ -29,7 +29,7 @@
   },
   "accountant": {
     "badness": "0.00",
-    "percent": "3.6"
+    "percent": "3.7"
   },
   "accountants": {
     "badness": "0.00",
@@ -40,7 +40,7 @@
     "percent": "0.0"
   },
   "actor": {
-    "badness": "0.03",
+    "badness": "0.02",
     "percent": "3.6"
   },
   "ad": {
@@ -65,7 +65,7 @@
   },
   "af": {
     "badness": "0.00",
-    "percent": "0.6"
+    "percent": "0.5"
   },
   "afl": {
     "badness": "0.00",
@@ -73,7 +73,7 @@
   },
   "africa": {
     "badness": "0.04",
-    "percent": "1.4"
+    "percent": "1.5"
   },
   "ag": {
     "badness": "0.00",
@@ -93,7 +93,7 @@
   },
   "al": {
     "badness": "0.02",
-    "percent": "1.3"
+    "percent": "1.2"
   },
   "allfinanz": {
     "badness": "0.00",
@@ -145,7 +145,7 @@
   },
   "ar": {
     "badness": "0.01",
-    "percent": "0.3"
+    "percent": "0.2"
   },
   "archi": {
     "badness": "0.00",
@@ -153,14 +153,14 @@
   },
   "army": {
     "badness": "0.00",
-    "percent": "0.9"
+    "percent": "0.8"
   },
   "arpa": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "art": {
-    "badness": "0.04",
+    "badness": "0.05",
     "percent": "1.0"
   },
   "as": {
@@ -169,11 +169,11 @@
   },
   "asia": {
     "badness": "0.12",
-    "percent": "2.2"
+    "percent": "2.1"
   },
   "associates": {
     "badness": "0.00",
-    "percent": "1.4"
+    "percent": "1.3"
   },
   "at": {
     "badness": "0.01",
@@ -188,8 +188,8 @@
     "percent": "0.1"
   },
   "auction": {
-    "badness": "0.05",
-    "percent": "2.6"
+    "badness": "0.06",
+    "percent": "3.0"
   },
   "audi": {
     "badness": "0.00",
@@ -208,7 +208,7 @@
     "percent": "0.0"
   },
   "autos": {
-    "badness": "0.20",
+    "badness": "0.21",
     "percent": "4.1"
   },
   "aw": {
@@ -241,7 +241,7 @@
   },
   "baby": {
     "badness": "0.05",
-    "percent": "3.7"
+    "percent": "3.6"
   },
   "band": {
     "badness": "0.00",
@@ -252,8 +252,8 @@
     "percent": "0.0"
   },
   "bar": {
-    "badness": "0.09",
-    "percent": "3.2"
+    "badness": "0.08",
+    "percent": "3.0"
   },
   "barcelona": {
     "badness": "0.00",
@@ -269,7 +269,7 @@
   },
   "bargains": {
     "badness": "0.00",
-    "percent": "2.6"
+    "percent": "2.4"
   },
   "basketball": {
     "badness": "0.00",
@@ -296,12 +296,12 @@
     "percent": "0.1"
   },
   "beauty": {
-    "badness": "0.68",
-    "percent": "12.7"
+    "badness": "0.67",
+    "percent": "12.5"
   },
   "beer": {
-    "badness": "0.03",
-    "percent": "2.0"
+    "badness": "0.00",
+    "percent": "0.5"
   },
   "berlin": {
     "badness": "0.00",
@@ -312,8 +312,8 @@
     "percent": "3.0"
   },
   "bet": {
-    "badness": "0.05",
-    "percent": "1.9"
+    "badness": "0.04",
+    "percent": "1.8"
   },
   "bf": {
     "badness": "0.00",
@@ -329,15 +329,15 @@
   },
   "bi": {
     "badness": "0.00",
-    "percent": "1.8"
+    "percent": "1.9"
   },
   "bible": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "bid": {
-    "badness": "0.33",
-    "percent": "8.7"
+    "badness": "0.31",
+    "percent": "8.4"
   },
   "bike": {
     "badness": "0.00",
@@ -400,8 +400,8 @@
     "percent": "0.7"
   },
   "boats": {
-    "badness": "0.20",
-    "percent": "5.5"
+    "badness": "0.22",
+    "percent": "5.8"
   },
   "bond": {
     "badness": "0.04",
@@ -413,15 +413,15 @@
   },
   "boston": {
     "badness": "0.00",
-    "percent": "2.9"
+    "percent": "2.8"
   },
   "bot": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "boutique": {
-    "badness": "0.20",
-    "percent": "6.1"
+    "badness": "0.21",
+    "percent": "6.4"
   },
   "box": {
     "badness": "0.00",
@@ -468,8 +468,8 @@
     "percent": "0.5"
   },
   "business": {
-    "badness": "0.17",
-    "percent": "4.4"
+    "badness": "0.12",
+    "percent": "3.4"
   },
   "buzz": {
     "badness": "0.14",
@@ -481,11 +481,11 @@
   },
   "by": {
     "badness": "0.01",
-    "percent": "0.4"
+    "percent": "0.3"
   },
   "bz": {
     "badness": "0.04",
-    "percent": "2.2"
+    "percent": "2.1"
   },
   "bzh": {
     "badness": "0.00",
@@ -501,11 +501,11 @@
   },
   "cafe": {
     "badness": "0.01",
-    "percent": "1.0"
+    "percent": "0.9"
   },
   "cam": {
     "badness": "0.12",
-    "percent": "2.9"
+    "percent": "3.1"
   },
   "camera": {
     "badness": "0.00",
@@ -545,7 +545,7 @@
   },
   "careers": {
     "badness": "0.00",
-    "percent": "0.6"
+    "percent": "0.0"
   },
   "cars": {
     "badness": "0.00",
@@ -584,7 +584,7 @@
     "percent": "0.0"
   },
   "center": {
-    "badness": "0.04",
+    "badness": "0.05",
     "percent": "1.6"
   },
   "ceo": {
@@ -592,11 +592,11 @@
     "percent": "0.0"
   },
   "cf": {
-    "badness": "0.74",
-    "percent": "9.7"
+    "badness": "0.75",
+    "percent": "9.8"
   },
   "cfd": {
-    "badness": "0.22",
+    "badness": "0.23",
     "percent": "3.1"
   },
   "cg": {
@@ -612,8 +612,8 @@
     "percent": "7.5"
   },
   "chat": {
-    "badness": "0.06",
-    "percent": "2.1"
+    "badness": "0.05",
+    "percent": "2.0"
   },
   "cheap": {
     "badness": "0.02",
@@ -649,15 +649,15 @@
   },
   "claims": {
     "badness": "0.06",
-    "percent": "3.8"
+    "percent": "3.6"
   },
   "cleaning": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "click": {
-    "badness": "0.14",
-    "percent": "2.1"
+    "badness": "0.15",
+    "percent": "2.2"
   },
   "clinic": {
     "badness": "0.00",
@@ -668,11 +668,11 @@
     "percent": "0.1"
   },
   "cloud": {
-    "badness": "0.26",
-    "percent": "4.0"
+    "badness": "0.27",
+    "percent": "4.2"
   },
   "club": {
-    "badness": "0.08",
+    "badness": "0.07",
     "percent": "1.3"
   },
   "clubmed": {
@@ -681,14 +681,14 @@
   },
   "cm": {
     "badness": "0.02",
-    "percent": "1.0"
+    "percent": "1.2"
   },
   "cn": {
-    "badness": "1.99",
-    "percent": "19.8"
+    "badness": "1.97",
+    "percent": "19.7"
   },
   "co": {
-    "badness": "0.08",
+    "badness": "0.09",
     "percent": "1.2"
   },
   "coach": {
@@ -697,7 +697,7 @@
   },
   "codes": {
     "badness": "0.02",
-    "percent": "1.1"
+    "percent": "1.3"
   },
   "coffee": {
     "badness": "0.00",
@@ -721,7 +721,7 @@
   },
   "company": {
     "badness": "0.05",
-    "percent": "1.6"
+    "percent": "1.5"
   },
   "compare": {
     "badness": "0.00",
@@ -757,7 +757,7 @@
   },
   "cool": {
     "badness": "0.11",
-    "percent": "3.7"
+    "percent": "3.8"
   },
   "coop": {
     "badness": "0.00",
@@ -793,7 +793,7 @@
   },
   "creditcard": {
     "badness": "0.00",
-    "percent": "3.2"
+    "percent": "3.3"
   },
   "cricket": {
     "badness": "0.00",
@@ -820,8 +820,8 @@
     "percent": "0.0"
   },
   "cx": {
-    "badness": "0.04",
-    "percent": "2.7"
+    "badness": "0.05",
+    "percent": "2.8"
   },
   "cy": {
     "badness": "0.00",
@@ -840,19 +840,19 @@
     "percent": "0.1"
   },
   "dad": {
-    "badness": "0.00",
-    "percent": "1.0"
+    "badness": "0.01",
+    "percent": "2.0"
   },
   "dance": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "date": {
-    "badness": "0.61",
-    "percent": "15.8"
+    "badness": "0.59",
+    "percent": "15.4"
   },
   "dating": {
-    "badness": "0.10",
+    "badness": "0.09",
     "percent": "3.6"
   },
   "day": {
@@ -868,8 +868,8 @@
     "percent": "0.7"
   },
   "degree": {
-    "badness": "1.76",
-    "percent": "45.6"
+    "badness": "1.83",
+    "percent": "47.1"
   },
   "delivery": {
     "badness": "0.15",
@@ -892,7 +892,7 @@
     "percent": "0.0"
   },
   "design": {
-    "badness": "0.01",
+    "badness": "0.02",
     "percent": "0.6"
   },
   "dev": {
@@ -920,12 +920,12 @@
     "percent": "1.3"
   },
   "directory": {
-    "badness": "0.11",
-    "percent": "4.1"
+    "badness": "0.10",
+    "percent": "3.8"
   },
   "discount": {
     "badness": "0.03",
-    "percent": "4.9"
+    "percent": "5.0"
   },
   "dj": {
     "badness": "0.00",
@@ -949,15 +949,15 @@
   },
   "dog": {
     "badness": "0.08",
-    "percent": "4.1"
+    "percent": "4.0"
   },
   "domains": {
     "badness": "0.00",
     "percent": "0.9"
   },
   "download": {
-    "badness": "0.03",
-    "percent": "1.6"
+    "badness": "0.02",
+    "percent": "1.5"
   },
   "durban": {
     "badness": "0.00",
@@ -1004,7 +1004,7 @@
     "percent": "0.4"
   },
   "email": {
-    "badness": "0.17",
+    "badness": "0.18",
     "percent": "3.8"
   },
   "energy": {
@@ -1041,7 +1041,7 @@
   },
   "estate": {
     "badness": "0.01",
-    "percent": "1.1"
+    "percent": "1.0"
   },
   "et": {
     "badness": "0.00",
@@ -1061,7 +1061,7 @@
   },
   "exchange": {
     "badness": "0.02",
-    "percent": "1.2"
+    "percent": "1.3"
   },
   "expert": {
     "badness": "0.02",
@@ -1077,7 +1077,7 @@
   },
   "fail": {
     "badness": "0.00",
-    "percent": "2.5"
+    "percent": "2.6"
   },
   "fairwinds": {
     "badness": "0.00",
@@ -1125,7 +1125,7 @@
   },
   "financial": {
     "badness": "0.04",
-    "percent": "2.9"
+    "percent": "3.0"
   },
   "firmdale": {
     "badness": "0.00",
@@ -1141,15 +1141,15 @@
   },
   "fit": {
     "badness": "0.38",
-    "percent": "8.7"
+    "percent": "8.6"
   },
   "fitness": {
     "badness": "0.00",
-    "percent": "0.0"
+    "percent": "0.5"
   },
   "fj": {
     "badness": "0.00",
-    "percent": "1.2"
+    "percent": "1.3"
   },
   "fk": {
     "badness": "0.00",
@@ -1161,7 +1161,7 @@
   },
   "flights": {
     "badness": "0.00",
-    "percent": "2.3"
+    "percent": "2.4"
   },
   "florist": {
     "badness": "0.00",
@@ -1200,8 +1200,8 @@
     "percent": "2.9"
   },
   "foundation": {
-    "badness": "0.03",
-    "percent": "1.5"
+    "badness": "0.05",
+    "percent": "1.9"
   },
   "fox": {
     "badness": "0.00",
@@ -1220,8 +1220,8 @@
     "percent": "0.0"
   },
   "fun": {
-    "badness": "0.38",
-    "percent": "5.4"
+    "badness": "0.37",
+    "percent": "5.3"
   },
   "fund": {
     "badness": "0.01",
@@ -1236,11 +1236,11 @@
     "percent": "0.0"
   },
   "fyi": {
-    "badness": "1.04",
-    "percent": "16.3"
+    "badness": "0.97",
+    "percent": "15.5"
   },
   "ga": {
-    "badness": "0.24",
+    "badness": "0.23",
     "percent": "5.5"
   },
   "gal": {
@@ -1265,11 +1265,11 @@
   },
   "gay": {
     "badness": "0.02",
-    "percent": "0.5"
+    "percent": "0.6"
   },
   "gd": {
     "badness": "0.06",
-    "percent": "5.3"
+    "percent": "5.5"
   },
   "gdn": {
     "badness": "0.00",
@@ -1289,7 +1289,7 @@
   },
   "gg": {
     "badness": "0.01",
-    "percent": "0.8"
+    "percent": "0.6"
   },
   "gh": {
     "badness": "0.00",
@@ -1300,16 +1300,16 @@
     "percent": "0.0"
   },
   "gift": {
-    "badness": "0.19",
-    "percent": "9.3"
+    "badness": "0.13",
+    "percent": "7.3"
   },
   "gifts": {
     "badness": "0.01",
     "percent": "1.2"
   },
   "gives": {
-    "badness": "0.12",
-    "percent": "6.6"
+    "badness": "0.18",
+    "percent": "8.6"
   },
   "giving": {
     "badness": "0.00",
@@ -1317,7 +1317,7 @@
   },
   "gl": {
     "badness": "0.02",
-    "percent": "2.7"
+    "percent": "2.6"
   },
   "glass": {
     "badness": "0.00",
@@ -1364,8 +1364,8 @@
     "percent": "2.6"
   },
   "golf": {
-    "badness": "0.04",
-    "percent": "2.1"
+    "badness": "0.05",
+    "percent": "2.4"
   },
   "goo": {
     "badness": "0.00",
@@ -1392,12 +1392,12 @@
     "percent": "0.0"
   },
   "gq": {
-    "badness": "1.15",
-    "percent": "14.7"
+    "badness": "1.16",
+    "percent": "14.8"
   },
   "gr": {
     "badness": "0.01",
-    "percent": "0.2"
+    "percent": "0.3"
   },
   "grainger": {
     "badness": "0.00",
@@ -1440,8 +1440,8 @@
     "percent": "0.0"
   },
   "guru": {
-    "badness": "0.09",
-    "percent": "2.7"
+    "badness": "0.11",
+    "percent": "3.0"
   },
   "gw": {
     "badness": "0.00",
@@ -1452,16 +1452,16 @@
     "percent": "2.9"
   },
   "hair": {
-    "badness": "0.83",
-    "percent": "21.8"
+    "badness": "0.86",
+    "percent": "22.2"
   },
   "hamburg": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "haus": {
-    "badness": "1.32",
-    "percent": "33.1"
+    "badness": "1.41",
+    "percent": "34.5"
   },
   "health": {
     "badness": "0.01",
@@ -1473,7 +1473,7 @@
   },
   "help": {
     "badness": "0.18",
-    "percent": "4.7"
+    "percent": "4.5"
   },
   "hermes": {
     "badness": "0.00",
@@ -1512,8 +1512,8 @@
     "percent": "0.0"
   },
   "homes": {
-    "badness": "0.17",
-    "percent": "3.7"
+    "badness": "0.18",
+    "percent": "3.9"
   },
   "horse": {
     "badness": "0.00",
@@ -1524,8 +1524,8 @@
     "percent": "0.0"
   },
   "host": {
-    "badness": "0.10",
-    "percent": "3.0"
+    "badness": "0.09",
+    "percent": "2.8"
   },
   "hosting": {
     "badness": "0.00",
@@ -1537,7 +1537,7 @@
   },
   "house": {
     "badness": "0.03",
-    "percent": "1.8"
+    "percent": "1.5"
   },
   "how": {
     "badness": "0.00",
@@ -1556,8 +1556,8 @@
     "percent": "0.1"
   },
   "icu": {
-    "badness": "0.03",
-    "percent": "0.5"
+    "badness": "0.04",
+    "percent": "0.6"
   },
   "id": {
     "badness": "0.03",
@@ -1604,7 +1604,7 @@
     "percent": "0.0"
   },
   "info": {
-    "badness": "0.60",
+    "badness": "0.59",
     "percent": "6.8"
   },
   "ing": {
@@ -1612,8 +1612,8 @@
     "percent": "0.0"
   },
   "ink": {
-    "badness": "0.77",
-    "percent": "12.7"
+    "badness": "0.80",
+    "percent": "13.2"
   },
   "institute": {
     "badness": "0.00",
@@ -1661,7 +1661,7 @@
   },
   "is": {
     "badness": "0.02",
-    "percent": "0.8"
+    "percent": "0.7"
   },
   "ist": {
     "badness": "0.00",
@@ -1737,7 +1737,7 @@
   },
   "kg": {
     "badness": "0.00",
-    "percent": "0.3"
+    "percent": "0.6"
   },
   "kh": {
     "badness": "0.00",
@@ -1752,8 +1752,8 @@
     "percent": "0.0"
   },
   "kim": {
-    "badness": "0.02",
-    "percent": "1.7"
+    "badness": "0.03",
+    "percent": "2.2"
   },
   "kitchen": {
     "badness": "0.00",
@@ -1789,7 +1789,7 @@
   },
   "krd": {
     "badness": "0.00",
-    "percent": "2.2"
+    "percent": "2.3"
   },
   "kred": {
     "badness": "0.00",
@@ -1817,15 +1817,15 @@
   },
   "land": {
     "badness": "0.02",
-    "percent": "1.1"
+    "percent": "1.4"
   },
   "landrover": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "lat": {
-    "badness": "0.23",
-    "percent": "3.6"
+    "badness": "0.25",
+    "percent": "3.8"
   },
   "law": {
     "badness": "0.00",
@@ -1833,7 +1833,7 @@
   },
   "lawyer": {
     "badness": "0.00",
-    "percent": "0.0"
+    "percent": "1.5"
   },
   "lb": {
     "badness": "0.00",
@@ -1841,7 +1841,7 @@
   },
   "lc": {
     "badness": "0.08",
-    "percent": "5.0"
+    "percent": "5.2"
   },
   "lease": {
     "badness": "0.00",
@@ -1852,8 +1852,8 @@
     "percent": "0.0"
   },
   "legal": {
-    "badness": "0.05",
-    "percent": "2.3"
+    "badness": "0.03",
+    "percent": "1.7"
   },
   "lego": {
     "badness": "0.00",
@@ -1865,7 +1865,7 @@
   },
   "li": {
     "badness": "0.02",
-    "percent": "1.0"
+    "percent": "0.9"
   },
   "lidl": {
     "badness": "0.00",
@@ -1881,7 +1881,7 @@
   },
   "limited": {
     "badness": "0.07",
-    "percent": "4.5"
+    "percent": "4.3"
   },
   "limo": {
     "badness": "0.00",
@@ -1892,8 +1892,8 @@
     "percent": "13.8"
   },
   "live": {
-    "badness": "2.27",
-    "percent": "25.2"
+    "badness": "2.23",
+    "percent": "24.9"
   },
   "lk": {
     "badness": "0.01",
@@ -1905,7 +1905,7 @@
   },
   "loan": {
     "badness": "0.09",
-    "percent": "4.0"
+    "percent": "3.9"
   },
   "loans": {
     "badness": "0.00",
@@ -1928,8 +1928,8 @@
     "percent": "0.0"
   },
   "love": {
-    "badness": "0.05",
-    "percent": "1.5"
+    "badness": "0.04",
+    "percent": "1.4"
   },
   "lr": {
     "badness": "0.00",
@@ -1945,7 +1945,7 @@
   },
   "ltd": {
     "badness": "0.44",
-    "percent": "8.2"
+    "percent": "8.1"
   },
   "ltda": {
     "badness": "0.00",
@@ -1957,7 +1957,7 @@
   },
   "luxe": {
     "badness": "0.00",
-    "percent": "1.8"
+    "percent": "1.7"
   },
   "luxury": {
     "badness": "0.00",
@@ -1973,7 +1973,7 @@
   },
   "ma": {
     "badness": "0.01",
-    "percent": "0.3"
+    "percent": "0.4"
   },
   "madrid": {
     "badness": "0.00",
@@ -1988,8 +1988,8 @@
     "percent": "0.0"
   },
   "makeup": {
-    "badness": "0.31",
-    "percent": "7.9"
+    "badness": "0.32",
+    "percent": "8.1"
   },
   "man": {
     "badness": "0.00",
@@ -2004,16 +2004,16 @@
     "percent": "0.0"
   },
   "market": {
-    "badness": "0.91",
-    "percent": "20.0"
+    "badness": "0.93",
+    "percent": "20.3"
   },
   "marketing": {
-    "badness": "0.01",
-    "percent": "0.3"
+    "badness": "0.02",
+    "percent": "0.5"
   },
   "markets": {
     "badness": "0.00",
-    "percent": "0.5"
+    "percent": "0.0"
   },
   "mattel": {
     "badness": "0.00",
@@ -2029,10 +2029,10 @@
   },
   "md": {
     "badness": "0.01",
-    "percent": "0.6"
+    "percent": "0.5"
   },
   "me": {
-    "badness": "0.10",
+    "badness": "0.11",
     "percent": "1.3"
   },
   "med": {
@@ -2096,8 +2096,8 @@
     "percent": "0.3"
   },
   "ml": {
-    "badness": "0.41",
-    "percent": "8.5"
+    "badness": "0.44",
+    "percent": "9.2"
   },
   "mm": {
     "badness": "0.00",
@@ -2116,8 +2116,8 @@
     "percent": "0.0"
   },
   "mobi": {
-    "badness": "0.10",
-    "percent": "2.6"
+    "badness": "0.09",
+    "percent": "2.4"
   },
   "moda": {
     "badness": "0.00",
@@ -2133,7 +2133,7 @@
   },
   "mom": {
     "badness": "0.18",
-    "percent": "4.1"
+    "percent": "4.0"
   },
   "money": {
     "badness": "0.06",
@@ -2152,8 +2152,8 @@
     "percent": "0.2"
   },
   "motorcycles": {
-    "badness": "0.32",
-    "percent": "9.2"
+    "badness": "0.36",
+    "percent": "10.0"
   },
   "mov": {
     "badness": "0.00",
@@ -2197,7 +2197,7 @@
   },
   "mv": {
     "badness": "0.00",
-    "percent": "0.5"
+    "percent": "0.4"
   },
   "mw": {
     "badness": "0.00",
@@ -2224,12 +2224,12 @@
     "percent": "0.0"
   },
   "name": {
-    "badness": "0.11",
-    "percent": "3.7"
+    "badness": "0.12",
+    "percent": "3.8"
   },
   "navy": {
-    "badness": "0.06",
-    "percent": "9.1"
+    "badness": "0.07",
+    "percent": "9.5"
   },
   "nc": {
     "badness": "0.00",
@@ -2264,8 +2264,8 @@
     "percent": "0.0"
   },
   "nf": {
-    "badness": "0.00",
-    "percent": "6.7"
+    "badness": "0.09",
+    "percent": "12.5"
   },
   "ng": {
     "badness": "0.26",
@@ -2277,7 +2277,7 @@
   },
   "ni": {
     "badness": "0.02",
-    "percent": "2.4"
+    "percent": "2.3"
   },
   "nike": {
     "badness": "0.00",
@@ -2325,7 +2325,7 @@
   },
   "observer": {
     "badness": "0.00",
-    "percent": "0.0"
+    "percent": "4.3"
   },
   "office": {
     "badness": "0.00",
@@ -2340,8 +2340,8 @@
     "percent": "0.0"
   },
   "one": {
-    "badness": "0.41",
-    "percent": "6.6"
+    "badness": "0.44",
+    "percent": "7.1"
   },
   "ong": {
     "badness": "0.00",
@@ -2364,7 +2364,7 @@
     "percent": "0.0"
   },
   "org": {
-    "badness": "0.05",
+    "badness": "0.06",
     "percent": "0.8"
   },
   "organic": {
@@ -2385,7 +2385,7 @@
   },
   "page": {
     "badness": "0.01",
-    "percent": "0.6"
+    "percent": "0.7"
   },
   "panasonic": {
     "badness": "0.00",
@@ -2409,7 +2409,7 @@
   },
   "pe": {
     "badness": "0.02",
-    "percent": "0.6"
+    "percent": "0.7"
   },
   "pet": {
     "badness": "0.00",
@@ -2429,7 +2429,7 @@
   },
   "ph": {
     "badness": "0.01",
-    "percent": "0.4"
+    "percent": "0.5"
   },
   "pharmacy": {
     "badness": "0.00",
@@ -2445,7 +2445,7 @@
   },
   "photo": {
     "badness": "0.01",
-    "percent": "1.0"
+    "percent": "0.9"
   },
   "photography": {
     "badness": "0.00",
@@ -2453,7 +2453,7 @@
   },
   "photos": {
     "badness": "0.00",
-    "percent": "0.6"
+    "percent": "0.7"
   },
   "physio": {
     "badness": "0.00",
@@ -2461,7 +2461,7 @@
   },
   "pics": {
     "badness": "0.23",
-    "percent": "4.3"
+    "percent": "4.4"
   },
   "pictet": {
     "badness": "0.00",
@@ -2481,7 +2481,7 @@
   },
   "pk": {
     "badness": "0.07",
-    "percent": "1.6"
+    "percent": "1.7"
   },
   "pl": {
     "badness": "0.06",
@@ -2525,7 +2525,7 @@
   },
   "pr": {
     "badness": "0.00",
-    "percent": "3.0"
+    "percent": "2.9"
   },
   "praxi": {
     "badness": "0.00",
@@ -2536,7 +2536,7 @@
     "percent": "1.1"
   },
   "pro": {
-    "badness": "0.11",
+    "badness": "0.12",
     "percent": "1.9"
   },
   "prod": {
@@ -2553,7 +2553,7 @@
   },
   "promo": {
     "badness": "0.17",
-    "percent": "7.8"
+    "percent": "7.7"
   },
   "properties": {
     "badness": "0.00",
@@ -2573,10 +2573,10 @@
   },
   "pub": {
     "badness": "0.01",
-    "percent": "1.2"
+    "percent": "1.1"
   },
   "pw": {
-    "badness": "0.06",
+    "badness": "0.07",
     "percent": "1.2"
   },
   "py": {
@@ -2596,8 +2596,8 @@
     "percent": "0.0"
   },
   "quest": {
-    "badness": "0.77",
-    "percent": "13.2"
+    "badness": "0.76",
+    "percent": "13.0"
   },
   "racing": {
     "badness": "0.01",
@@ -2609,7 +2609,7 @@
   },
   "re": {
     "badness": "0.01",
-    "percent": "0.8"
+    "percent": "0.7"
   },
   "realestate": {
     "badness": "0.00",
@@ -2639,6 +2639,10 @@
     "badness": "0.00",
     "percent": "0.0"
   },
+  "reit": {
+    "badness": "0.00",
+    "percent": "0.0"
+  },
   "ren": {
     "badness": "0.00",
     "percent": "1.4"
@@ -2665,15 +2669,15 @@
   },
   "rest": {
     "badness": "0.52",
-    "percent": "10.7"
+    "percent": "10.6"
   },
   "restaurant": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "review": {
-    "badness": "0.03",
-    "percent": "1.9"
+    "badness": "0.04",
+    "percent": "2.3"
   },
   "reviews": {
     "badness": "0.04",
@@ -2689,7 +2693,7 @@
   },
   "rip": {
     "badness": "0.01",
-    "percent": "1.0"
+    "percent": "1.1"
   },
   "ro": {
     "badness": "0.01",
@@ -2700,8 +2704,8 @@
     "percent": "10.1"
   },
   "rodeo": {
-    "badness": "1.25",
-    "percent": "25.2"
+    "badness": "1.26",
+    "percent": "25.3"
   },
   "rs": {
     "badness": "0.00",
@@ -2709,11 +2713,11 @@
   },
   "rsvp": {
     "badness": "0.00",
-    "percent": "1.2"
+    "percent": "1.0"
   },
   "ru": {
-    "badness": "0.13",
-    "percent": "1.7"
+    "badness": "0.12",
+    "percent": "1.6"
   },
   "rugby": {
     "badness": "0.00",
@@ -2724,8 +2728,8 @@
     "percent": "0.0"
   },
   "run": {
-    "badness": "0.17",
-    "percent": "5.3"
+    "badness": "0.18",
+    "percent": "5.7"
   },
   "rw": {
     "badness": "0.00",
@@ -2744,8 +2748,8 @@
     "percent": "0.0"
   },
   "sale": {
-    "badness": "0.22",
-    "percent": "6.9"
+    "badness": "0.24",
+    "percent": "7.4"
   },
   "salon": {
     "badness": "0.00",
@@ -2780,12 +2784,12 @@
     "percent": "0.0"
   },
   "sbs": {
-    "badness": "0.67",
-    "percent": "9.4"
+    "badness": "0.68",
+    "percent": "9.5"
   },
   "sc": {
     "badness": "0.02",
-    "percent": "3.4"
+    "percent": "3.5"
   },
   "schaeffler": {
     "badness": "0.00",
@@ -2809,7 +2813,7 @@
   },
   "science": {
     "badness": "0.01",
-    "percent": "0.9"
+    "percent": "0.8"
   },
   "scot": {
     "badness": "0.00",
@@ -2840,12 +2844,12 @@
     "percent": "0.0"
   },
   "services": {
-    "badness": "0.17",
-    "percent": "3.5"
+    "badness": "0.16",
+    "percent": "3.3"
   },
   "sex": {
     "badness": "0.00",
-    "percent": "3.0"
+    "percent": "2.9"
   },
   "sexy": {
     "badness": "0.00",
@@ -2868,8 +2872,8 @@
     "percent": "0.0"
   },
   "shop": {
-    "badness": "0.24",
-    "percent": "3.3"
+    "badness": "0.23",
+    "percent": "3.2"
   },
   "shopping": {
     "badness": "0.00",
@@ -2884,12 +2888,12 @@
     "percent": "0.1"
   },
   "singles": {
-    "badness": "0.05",
-    "percent": "2.3"
+    "badness": "0.04",
+    "percent": "2.0"
   },
   "site": {
-    "badness": "0.34",
-    "percent": "4.1"
+    "badness": "0.32",
+    "percent": "3.9"
   },
   "sk": {
     "badness": "0.00",
@@ -2900,8 +2904,8 @@
     "percent": "0.0"
   },
   "skin": {
-    "badness": "0.13",
-    "percent": "3.3"
+    "badness": "0.11",
+    "percent": "2.8"
   },
   "sky": {
     "badness": "0.00",
@@ -2937,7 +2941,7 @@
   },
   "social": {
     "badness": "0.25",
-    "percent": "5.8"
+    "percent": "5.9"
   },
   "software": {
     "badness": "0.01",
@@ -2949,7 +2953,7 @@
   },
   "solutions": {
     "badness": "0.04",
-    "percent": "1.2"
+    "percent": "1.1"
   },
   "soy": {
     "badness": "0.00",
@@ -2961,7 +2965,7 @@
   },
   "space": {
     "badness": "0.24",
-    "percent": "3.5"
+    "percent": "3.6"
   },
   "sport": {
     "badness": "0.00",
@@ -3017,7 +3021,7 @@
   },
   "su": {
     "badness": "0.21",
-    "percent": "4.8"
+    "percent": "4.7"
   },
   "sucks": {
     "badness": "0.00",
@@ -3029,15 +3033,15 @@
   },
   "supply": {
     "badness": "0.01",
-    "percent": "1.3"
+    "percent": "1.2"
   },
   "support": {
-    "badness": "0.73",
-    "percent": "12.2"
+    "badness": "0.74",
+    "percent": "12.4"
   },
   "surf": {
     "badness": "0.02",
-    "percent": "3.2"
+    "percent": "3.1"
   },
   "surgery": {
     "badness": "0.00",
@@ -3049,7 +3053,7 @@
   },
   "sv": {
     "badness": "0.02",
-    "percent": "1.8"
+    "percent": "1.7"
   },
   "swiss": {
     "badness": "0.00",
@@ -3057,7 +3061,7 @@
   },
   "sx": {
     "badness": "0.00",
-    "percent": "1.8"
+    "percent": "1.7"
   },
   "sy": {
     "badness": "0.00",
@@ -3065,7 +3069,7 @@
   },
   "sydney": {
     "badness": "0.00",
-    "percent": "0.6"
+    "percent": "0.7"
   },
   "systems": {
     "badness": "0.02",
@@ -3084,12 +3088,12 @@
     "percent": "0.0"
   },
   "tattoo": {
-    "badness": "0.37",
-    "percent": "12.8"
+    "badness": "0.41",
+    "percent": "13.8"
   },
   "tax": {
-    "badness": "0.04",
-    "percent": "2.3"
+    "badness": "0.03",
+    "percent": "2.2"
   },
   "taxi": {
     "badness": "0.02",
@@ -3117,7 +3121,7 @@
   },
   "tel": {
     "badness": "0.01",
-    "percent": "1.7"
+    "percent": "1.6"
   },
   "tennis": {
     "badness": "0.00",
@@ -3168,12 +3172,12 @@
     "percent": "0.0"
   },
   "tk": {
-    "badness": "0.52",
-    "percent": "6.1"
+    "badness": "0.54",
+    "percent": "6.4"
   },
   "tl": {
     "badness": "0.00",
-    "percent": "1.9"
+    "percent": "1.8"
   },
   "tm": {
     "badness": "0.00",
@@ -3188,7 +3192,7 @@
     "percent": "3.1"
   },
   "today": {
-    "badness": "0.20",
+    "badness": "0.21",
     "percent": "3.1"
   },
   "tokyo": {
@@ -3200,16 +3204,16 @@
     "percent": "0.7"
   },
   "top": {
-    "badness": "0.93",
-    "percent": "10.6"
+    "badness": "0.92",
+    "percent": "10.5"
   },
   "tours": {
-    "badness": "0.00",
-    "percent": "0.7"
+    "badness": "0.01",
+    "percent": "1.1"
   },
   "town": {
-    "badness": "0.00",
-    "percent": "0.9"
+    "badness": "0.01",
+    "percent": "1.7"
   },
   "toyota": {
     "badness": "0.00",
@@ -3224,8 +3228,8 @@
     "percent": "0.6"
   },
   "trade": {
-    "badness": "0.63",
-    "percent": "14.0"
+    "badness": "0.67",
+    "percent": "14.8"
   },
   "trading": {
     "badness": "0.01",
@@ -3249,7 +3253,7 @@
   },
   "tv": {
     "badness": "0.02",
-    "percent": "0.7"
+    "percent": "0.6"
   },
   "tw": {
     "badness": "0.01",
@@ -3269,23 +3273,23 @@
   },
   "uk": {
     "badness": "0.05",
-    "percent": "0.7"
+    "percent": "0.6"
   },
   "university": {
     "badness": "0.00",
     "percent": "0.9"
   },
   "uno": {
-    "badness": "0.80",
-    "percent": "16.2"
+    "badness": "0.82",
+    "percent": "16.6"
   },
   "uol": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "us": {
-    "badness": "0.38",
-    "percent": "5.0"
+    "badness": "0.39",
+    "percent": "5.1"
   },
   "uy": {
     "badness": "0.00",
@@ -3301,15 +3305,15 @@
   },
   "vacations": {
     "badness": "0.00",
-    "percent": "2.5"
+    "percent": "2.6"
   },
   "vanguard": {
     "badness": "0.00",
     "percent": "0.0"
   },
   "vc": {
-    "badness": "0.01",
-    "percent": "0.8"
+    "badness": "0.00",
+    "percent": "0.3"
   },
   "ve": {
     "badness": "0.00",
@@ -3360,8 +3364,8 @@
     "percent": "2.8"
   },
   "vip": {
-    "badness": "0.12",
-    "percent": "1.9"
+    "badness": "0.11",
+    "percent": "1.7"
   },
   "vision": {
     "badness": "0.01",
@@ -3433,7 +3437,7 @@
   },
   "website": {
     "badness": "0.11",
-    "percent": "1.9"
+    "percent": "2.0"
   },
   "wedding": {
     "badness": "0.00",
@@ -3445,7 +3449,7 @@
   },
   "wf": {
     "badness": "0.14",
-    "percent": "9.8"
+    "percent": "10.0"
   },
   "wien": {
     "badness": "0.00",
@@ -3473,19 +3477,19 @@
   },
   "work": {
     "badness": "0.08",
-    "percent": "1.7"
+    "percent": "1.6"
   },
   "works": {
     "badness": "0.02",
-    "percent": "0.9"
+    "percent": "1.0"
   },
   "world": {
-    "badness": "0.28",
-    "percent": "4.9"
+    "badness": "0.29",
+    "percent": "5.0"
   },
   "ws": {
-    "badness": "0.18",
-    "percent": "4.2"
+    "badness": "0.19",
+    "percent": "4.3"
   },
   "wtf": {
     "badness": "0.04",
@@ -3508,8 +3512,8 @@
     "percent": "2.4"
   },
   "yachts": {
-    "badness": "0.22",
-    "percent": "6.0"
+    "badness": "0.29",
+    "percent": "7.7"
   },
   "yahoo": {
     "badness": "0.00",
@@ -3552,8 +3556,8 @@
     "percent": "0.7"
   },
   "zone": {
-    "badness": "0.77",
-    "percent": "13.2"
+    "badness": "0.70",
+    "percent": "12.2"
   },
   "zuerich": {
     "badness": "0.00",
@@ -3561,6 +3565,6 @@
   },
   "zw": {
     "badness": "0.00",
-    "percent": "0.2"
+    "percent": "0.3"
   }
 }
